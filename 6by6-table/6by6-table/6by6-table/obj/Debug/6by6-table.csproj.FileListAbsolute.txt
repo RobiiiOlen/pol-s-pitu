@@ -1,0 +1,6 @@
+C:\Users\banaa\Documents\GitHub\6by6-table\6by6-table\6by6-table\bin\Debug\6by6-table.exe.config
+C:\Users\banaa\Documents\GitHub\6by6-table\6by6-table\6by6-table\bin\Debug\6by6-table.exe
+C:\Users\banaa\Documents\GitHub\6by6-table\6by6-table\6by6-table\bin\Debug\6by6-table.pdb
+C:\Users\banaa\Documents\GitHub\6by6-table\6by6-table\6by6-table\obj\Debug\6by6-table.csprojResolveAssemblyReference.cache
+C:\Users\banaa\Documents\GitHub\6by6-table\6by6-table\6by6-table\obj\Debug\6by6-table.exe
+C:\Users\banaa\Documents\GitHub\6by6-table\6by6-table\6by6-table\obj\Debug\6by6-table.pdb
